@@ -141,3 +141,4 @@ isie --help
  - Support encryption and uploading
  - More preset colors
  - More image types supported
+ - More fonts
